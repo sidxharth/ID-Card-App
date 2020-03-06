@@ -4,6 +4,8 @@ Basic ID Card App with details such as Email, Phone no., URLs.
 
 ![](app.jpg)
 
+The FlatButtons in the app when tapped copy their respective contents to the clipboard for the user to paste wherever required. 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
