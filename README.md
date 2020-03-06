@@ -1,6 +1,8 @@
 # ID Card
 
-A new Flutter project.
+Basic ID Card App with details such as Email, Phone no., URLs.
+
+![](app.jpg)
 
 ## Getting Started
 
