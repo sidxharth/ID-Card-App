@@ -87,7 +87,7 @@ class MyApp extends StatelessWidget {
                   ),
                   onPressed: () {
                     Clipboard.setData(
-                        ClipboardData(text: 'thesiddharthsaini@gmail.com'));
+                        ClipboardData(text: 'sidxharth@gmail.com'));
                   },
                 ),
               ),
@@ -118,7 +118,7 @@ class MyApp extends StatelessWidget {
                     ],
                   ),
                   onPressed: () {
-                    Clipboard.setData(ClipboardData(text: '9013982659'));
+                    Clipboard.setData(ClipboardData(text: '9013XXXX59'));
                   },
                 ),
               ),
